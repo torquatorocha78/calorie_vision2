@@ -1,2 +1,1 @@
-# calorie_vision2
-aplicativo simples no stremlit ,onde você pede ao usuário para inserir uma foto de um prato de comida e depois a LLM calcula quantidade de calorias e devolve o resultado ao usuário, inclusive a quantidade de carbohiratos, proteínas e gorduras, com design simples com detalhes em verde e branco.
+Calorie Vision AI is a Python + Streamlit web app that uses multimodal AI to analyze food images and estimate calories, carbohydrates, proteins, and fats. Users can upload meal photos, view nutritional results, and track a local meal history with charts.
